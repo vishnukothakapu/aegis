@@ -1,0 +1,8 @@
+{
+  "name": "@aegis/contracts",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "scripts": {
+    "build": "node scripts/extract-abis.js"
+  }
+}
